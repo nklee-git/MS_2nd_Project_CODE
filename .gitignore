@@ -5,9 +5,18 @@
 # - export_full_v5.py로 로컬 재생성, 필요 시 OneDrive/Teams로 직접 공유
 30.DATA/32. nqnq_data/full_export/
 
+# 한글 컬럼명 CSV 사본 (408MB, export_full_v5.py로 로컬 재생성 — 로컬/Teams에만 보관, 어느 저장소에도 안 올림)
+30.DATA/32. nqnq_data/전체csv파일_v5_한글변경(테이블,컬럼)/
+
 # Obsidian 로컬 설정 (개인 UI 상태, 공유 불필요)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Office 임시 잠금 파일
+~$*
+
+# 로그 (코드 아님)
+*.log
 
 # OS / 캐시
 .DS_Store
